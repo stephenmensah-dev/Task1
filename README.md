@@ -4,7 +4,7 @@ This project is a secure NestJS-based backend API that provides user authenticat
 
 ---
 
-## 🔧 Features
+## Features
 
 -  **User Registration & Authentication**
   - Local strategy with hashed passwords (bcrypt)
@@ -22,9 +22,8 @@ This project is a secure NestJS-based backend API that provides user authenticat
 -  **Login History Tracking**
   - Logs every login, logout, and refresh event in the `LoginHistory` table
   - `ManyToOne` relationship with the `User` entity
-
 ---
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **NestJS**
 - **TypeORM** (with PostgreSQL or SQLite, configurable)
