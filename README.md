@@ -26,7 +26,7 @@ This project is a secure NestJS-based backend API that provides user authenticat
 ##  Tech Stack
 
 - **NestJS**
-- **TypeORM** (with PostgreSQL or SQLite, configurable)
+- **TypeORM** (with PostgreSQL)
 - **Passport.js** for authentication strategies
 - **JWT** for access/refresh token management
 - **Bcrypt** for password hashing
